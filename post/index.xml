@@ -17,7 +17,7 @@
       <pubDate>Sat, 01 Aug 2020 11:13:32 -0400</pubDate>
       
       <guid>https://Ibrahim-Abdalla.github.io/Ibrahim_Portfolio/post/project-4/</guid>
-      <description>Created a tool that estimates data science salaries (MAE ~ $ 8K) to help data scientists negotiate their income when they get a job. Scraped over 1000 job descriptions from glassdoor using python and selenium Engineered features from the text of each job * description to quantify the value companies put on python, excel, aws, and spark. Built a client facing API using flask    Link to GitHub repository</description>
+      <description>Created a tool that estimates data science salaries (MAE ~ $ 8K) to help data scientists negotiate their income when they get a job. Scraped over 1000 job descriptions from glassdoor using python and selenium Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. Built a client facing API using flask    Link to GitHub repository</description>
     </item>
     
     <item>
